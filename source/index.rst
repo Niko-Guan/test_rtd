@@ -10,10 +10,12 @@ Contents:
 
 .. toctree::
    :maxdepth: 2
+   :numbered:
+   :glob:
    
-   :pages:
    
-   context
+   context/context
+   
 
 
 Indices and tables
